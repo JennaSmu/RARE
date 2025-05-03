@@ -1,0 +1,25 @@
+---
+dg-publish: true
+---
+
+[[American-Kestrel-(AMKE)|American-Kestrel-(AMKE)]]
+[[Bald-Eagle-(BAEA)|Bald-Eagle-(BAEA)]]
+[[Barn-Owl-(BANO)|Barn-Owl-(BANO)]]
+[[Barred-Owl-(BDOW)|Barred-Owl-(BDOW)]]
+[[Black-Vulture-(BLVU)|Black-Vulture-(BLVU)]]
+[[Broad-winged-Hawk-(BWHA)|Broad-winged-Hawk-(BWHA)]]
+[[Cooper's-Hawk-(COHA)|Cooper's-Hawk-(COHA)]]
+[[Eastern-Screech-Owl-(EASO)|Eastern-Screech-Owl-(EASO)]]
+[[Great-Horned-Owl-GHOW|Great-Horned-Owl-GHOW]]
+[[Long-eared-Owl-(LEOW)|Long-eared-Owl-(LEOW)]]
+[[Merlin-(MERL)|Merlin-(MERL)]]
+[[Osprey-(OSPR)|Osprey-(OSPR)]]
+[[Peregrine-Falcon-(PEFA)|Peregrine-Falcon-(PEFA)]]
+[[Rough-legged-Hawk-(RLHA)|Rough-legged-Hawk-(RLHA)]]
+[[Red-shouldered-Hawk-(RSHA)|Red-shouldered-Hawk-(RSHA)]]
+[[Red-tailed-Hawk-(RTHA)|Red-tailed-Hawk-(RTHA)]]
+[[Sharp-shinned-Hawk-(SSHA)|Sharp-shinned-Hawk-(SSHA)]]
+[[Short-eared-Owl-(SEOW)|Short-eared-Owl-(SEOW)]]
+[[Turkey-Vulture-TUVU|Turkey-Vulture-TUVU]]
+[[Common-Nighthawk-(CONH)|Common-Nighthawk-(CONH)]]
+[[American-Crow-(AMCR)|American-Crow-(AMCR)]]
