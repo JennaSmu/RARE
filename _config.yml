@@ -1,3 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+lunr:
+  search_within_pages: true
+search: true
 plugins:
   - jekyll-include-cache
+  - jemoji
