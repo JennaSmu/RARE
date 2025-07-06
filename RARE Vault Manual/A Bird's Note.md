@@ -7,13 +7,13 @@ So, in each Daily Note, you link to a bird's note.
 Let's look at what is in a bird's note.
 
 # Naming:
-- To keep the ordering simple and in line with code I have, please enter the name as Case # 4 letter species code. Ex: [2501 AMKE](../RARE%20Birds/2501%20AMKE.md)
+- To keep the ordering simple and in line with code I have, please enter the name as Case # 4 letter species code. Ex: [2501 AMKE]({{< ref "2501 AMKE" >}})
 
 # Templates:
 - There are two types of templates I made for a bird's note.
-- [bird-info-template](../bird-info-template.md)
+- [bird-info-template]({{< ref "bird-info-template" >}})
 	- This includes all the different properties.
-- [bird-info-template-most-common-properties](../bird-info-template-most-common-properties.md)
+- [bird-info-template-most-common-properties]({{< ref "bird-info-template-most-common-properties" >}})
 	- This only includes some of the properties.
 	- Most birds do not have something in all the properties so I just made this to limit it.
 
@@ -35,12 +35,12 @@ Here are the different properties in the bird note.
 | Release Address   | Enter the address the bird was released. Leave blank if not known.                                                                                                                                                           |
 | Release Address   | Enter the GPS coordinates where the bird was released Leave blank if not known.                                                                                                                                              |
 | InjuryEvent       | The reason why the bird was admitted. In the OSU data, this is the Situation for Admit column.                                                                                                                               |
-| Injury            | You can enter multiple injuries here. I usually format it so it is Type of Injury - Side - Body Part. Ex: FX L Humerus. If the side of the [FX](../Admin/Codes/Fracture.md) was not known, I would enter FX - Humerus.                       |
+| Injury            | You can enter multiple injuries here. I usually format it so it is Type of Injury - Side - Body Part. Ex: FX L Humerus. If the side of the [FX]({{< ref "Fracture\" >}}) was not known, I would enter FX - Humerus.                       |
 | Admit Condition   | The condition the bird was admitted as. Has a dropdown of options. If not known, leave blank.                                                                                                                                |
 | Admit Keel Score  | What the keel score was when admitted. If not known, leave blank.                                                                                                                                                            |
 | Admit Weight (kg) | The weight the bird was when admitted in kg. If not known, leave blank.                                                                                                                                                      |
 | Last Weight (kg)  | The weight the bird was when admitted in kg. If not known, leave blank.                                                                                                                                                      |
-| Lead (ug/dL)      | The value given on the lead test. Can look at [Lead Test Results](../Tools/Lead%20Test%20Results.md) to help interpret it.                                                                                                                                    |
+| Lead (ug/dL)      | The value given on the lead test. Can look at [Lead Test Results]({{< ref "Lead Test Results" >}}) to help interpret it.                                                                                                                                    |
 | Intake            | The date the bird was admitted.                                                                                                                                                                                              |
 | Outtake           | The date the bird was no longer in our care.                                                                                                                                                                                 |
 | Disposal          | The date the bird was disposed of if the bird died in our care.                                                                                                                                                              |
@@ -48,17 +48,17 @@ Here are the different properties in the bird note.
 
 # Sections of the Bird Note:
 
-Using [2501 AMKE](../RARE%20Birds/2501%20AMKE.md) as an example:
+Using [2501 AMKE]({{< ref "2501 AMKE" >}}) as an example:
 
 ## Summary Table:
 
-![2501 AMKE > Summary Tables](../RARE%20Birds/2501%20AMKE.md#Summary%20Tables)
+![2501 AMKE#Summary Tables](/images/2501 AMKE#Summary Tables)
 
 These tables are the same as what is seen in the properties but just broken up. Mostly used so the properties can be seen in the Digital Garden website.
 
 ## Significant Events:
 
-![2501 AMKE > Significant Events](../RARE%20Birds/2501%20AMKE.md#Significant%20Events)
+![2501 AMKE#Significant Events](/images/2501 AMKE#Significant Events)
 
 The Significant Event Notices code takes all the lines with the #🦅💥-significant-event tag in them and shows them as a nice list of events. So, you can get an overview of what happened when.
 
@@ -66,9 +66,9 @@ In the comments section, any tasks with the #🦅🩺-bird-care/long-term tag in
 
 ## Overall:
 
-![2501 AMKE > Overall](../RARE%20Birds/2501%20AMKE.md#Overall)
+![2501 AMKE#Overall](/images/2501 AMKE#Overall)
 
 The code here goes through each daily note and first finds the heading for each section (Clinic, New Admit, or Barn.) Then, in that section, it looks for a line that contains the name of the note. It then pulls in all that information. So, nothing on your end needs to be done here. You just need to name the note and the code will handle the rest.
 
 # Up Next:
-- [Charts](./Charts.md)
+- [RARE Vault Manual/Charts]({{< ref "RARE Vault Manual/Charts" >}})
