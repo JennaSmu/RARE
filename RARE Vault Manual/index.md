@@ -40,7 +40,7 @@ Here is a summary of differences between Spreadsheets and Obsidian:
 
 See the below PDF for how to navigate what you see when you first open the vault.
 
-![Navigating Obsidian Vault.pdf](../Admin/Attachments/Navigating%20Obsidian%20Vault.pdf)
+![Navigating Obsidian Vault.pdf](/images/Navigating Obsidian Vault.pdf)
 
 # Plug-ins:
 
@@ -49,19 +49,19 @@ Plug-ins are a huge part of Obsidian and how this vault works. So, it is essenti
 > [!notice]+
 > - The Relay plugin I talk about in this video is no longer used in this vault. But, this video still shows you how plug-ins are generally used.
 
-![Community Plugins.mp4](../Admin/Attachments/Community%20Plugins.mp4)
+![Community Plugins.mp4](/images/Community Plugins.mp4)
 
 # Linking:
 - Understanding how to links notes to one another is a very important thing.
 - The way linking is done is to enter [](.md) once you do that, you will see a menu pop up. As you type inside the brackets, Obsidian will try to find a note name with something similar.
 - Link example:
-	- [Jumbo Rat](../Admin/Codes/Food/Jumbo%20Rat.md)
+	- [Jumbo Rat]({{< ref "Jumbo Rat" >}})
 
 ## Aliases:
-- Something I LOVE about Obsidian is that notes can have more than 1 name. These are called Aliases. Let's take the [Jumbo Rat](../Admin/Codes/Food/Jumbo%20Rat.md) note as an example.
+- Something I LOVE about Obsidian is that notes can have more than 1 name. These are called Aliases. Let's take the [Jumbo Rat]({{< ref "Jumbo Rat" >}}) note as an example.
 
-![Alias Example.png](../Admin/Attachments/Alias%20Example.png)
-In Obsidian, you can give notes different [Properties](../Admin/Properties.md), which adds metadata (data about the note) to the note. In this case, I have added aliases to the Jumbo Rat note.
+![Alias Example.png](/images/Alias Example.png)
+In Obsidian, you can give notes different [Properties]({{< ref "Properties" >}}), which adds metadata (data about the note) to the note. In this case, I have added aliases to the Jumbo Rat note.
 
 So, when I want to make a link to Jumbo Rat, as I type that in, I will see the options for Jumbo Rat (the actual title of the note) and one of it's aliases, 🐀 Jumbo Rat.
 - I love adding cute emojis to everything and I think the emoji just helps to show that we are talking about a rat.
@@ -94,10 +94,10 @@ Hotkeys are keyboard shortcuts you can use to look up commands.
 In the ribbon on the side, if you click on the icon that looks like >\_, you will open the command bar.
 
 > [!tip]- Where is the Command Bar icon on the ribbon?
-> ![Obsidian Ribbon with Command Center circled in red.png](../Admin/Attachments/Obsidian%20Ribbon%20with%20Command%20Center%20circled%20in%20red.png)
+> ![Obsidian Ribbon with Command Center circled in red.png](/images/Obsidian Ribbon with Command Center circled in red.png)
 
 > [!tldr]- What the Command Bar looks like:
-![Obsidian Command Bar.png](../Admin/Attachments/Obsidian%20Command%20Bar.png)
+![Obsidian Command Bar.png](/images/Obsidian Command Bar.png)
 
 You can scroll through the command bar and see that there are tons of options for what to do. But don't worry, there's only a few you need to know and use.
 
@@ -126,4 +126,4 @@ I have several templates in this vault. They'll come up when they are relevant b
 
 # Up Next:
 
-Now go to the next note, [Folders and Plugins of RARE Vault](./Folders%20and%20Plugins%20of%20RARE%20Vault.md), to see more about what I have in this specific vault.
+Now go to the next note, [Folders and Plugins of RARE Vault]({{< ref "Folders and Plugins of RARE Vault" >}}), to see more about what I have in this specific vault.

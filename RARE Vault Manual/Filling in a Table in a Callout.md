@@ -12,15 +12,15 @@ dg-publish: true
 >>##### Yesterday's Food:
 >> |🗑️ Leftovers| Removed?
 >> |---|---|
->>|[🐀 JR](../Admin/Codes/Food/Jumbo%20Rat.md)|Yes
+>>|[🐀 JR]({{< ref "Jumbo Rat\" >}})|Yes
 >>
 >>##### New Food:
 >> |🚚 Food Delivery| 🍽️ Fed|
 >> |---|---|
->>|[🟡WF](../Admin/Codes/Whole%20food.md)|🐭|
->>|[🔪 Cut open](../Admin/Codes/Cut%20open.md)|🐭|
->>|[✂️ Cut up](../Admin/Codes/Cut%20up.md)|🐭|
->>|[🫱 HF](../Admin/Codes/Handfed.md)|🐭
+>>|[🟡WF]({{< ref "Whole food\" >}})|🐭|
+>>|[🔪 Cut open]({{< ref "Cut open\" >}})|🐭|
+>>|[✂️ Cut up]({{< ref "Cut up\" >}})|🐭|
+>>|[🫱 HF]({{< ref "Handfed\" >}})|🐭
 
 # Improperly Filled In:
 
@@ -30,15 +30,15 @@ dg-publish: true
 >>##### Yesterday's Food:
 >> |🗑️ Leftovers| Removed?
 >> |---|---|
->>|[🐀 JR](../Admin/Codes/Food/Jumbo%20Rat.md)|Yes
+>>|[🐀 JR]({{< ref "Jumbo Rat" >}})|Yes
 >>
 >>##### New Food:
 >> |🚚 Food Delivery| 🍽️ Fed|
 >> |---|---|
->>|[🟡WF](../Admin/Codes/Whole%20food.md)|🐭|
->>|[🔪 Cut open](../Admin/Codes/Cut%20open.md)|🐭|
->>|[✂️ Cut up](../Admin/Codes/Cut%20up.md)|🐭|
->>|[🫱 HF](../Admin/Codes/Handfed.md)|🐭
+>>|[🟡WF]({{< ref "Whole food" >}})|🐭|
+>>|[🔪 Cut open]({{< ref "Cut open" >}})|🐭|
+>>|[✂️ Cut up]({{< ref "Cut up" >}})|🐭|
+>>|[🫱 HF]({{< ref "Handfed" >}})|🐭
 
 # What is the causing the difference?
 

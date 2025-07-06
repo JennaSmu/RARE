@@ -4,20 +4,20 @@ dg-publish: false
 
 The purpose of this note is to explain several concepts common in this vault. For this, we will be using the Dashboard/Homepage note as an example.
 
-If you want you can open [RARE Obsidian Vault](../Admin/RARE%20Obsidian%20Vault.md) in another tab. Or you can scroll down and see the embedded sections I will talk about.
+If you want you can open [RARE Obsidian Vault]({{< ref "RARE Obsidian Vault" >}}) in another tab. Or you can scroll down and see the embedded sections I will talk about.
 
 # Recent Notes:
 
 This section shows the most recent Daily Note.
 Another way to switch between notes is to use the 🗓️ icon that is in the ribbon.
 
-![RARE Obsidian Vault > Recent Notes](../Admin/RARE%20Obsidian%20Vault.md#Recent%20Notes)
+![RARE Obsidian Vault#Recent Notes](/images/RARE Obsidian Vault#Recent Notes)
 
 # Current Birds:
 
 This section uses the Dataview plugin to pull in a table of the Birds in Clinic and a table to pull in a table of the Birds at Barn. That way, you can get a quick overview of who we are caring for right now.
 
-![RARE Obsidian Vault > Current Birds](../Admin/RARE%20Obsidian%20Vault.md#Current%20Birds)
+![RARE Obsidian Vault#Current Birds](/images/RARE Obsidian Vault#Current Birds)
 
 # Notices and Tasks:
 In this section of the Homepage, I have several Dataviewjs code blocks to pull different tags.
@@ -38,11 +38,11 @@ Here is what the different sections mean:
 | Maintenance | #🛠️-maintenance  = a tag I have been using for tasks that show that something is broken or has been fixed.                                                                                                                                                                                                                                                                                                                     |
 | Bird Care   | #🦅🩺-bird-care/short-term  = something relating to a specific bird but the item is something short term. Ex: A tail sheath needs to be applied the next day. <br>#🦅🩺-bird-care/long-term  = something relating to a specific bird but the item is something more long-term that will be relevant to that bird's data. Ex: Finding out after getting a bird's X-rays, that what was thought to be fracture is not a fracture. |
 
-![RARE Obsidian Vault > Notices and Tasks](../Admin/RARE%20Obsidian%20Vault.md#Notices%20and%20Tasks)
+![RARE Obsidian Vault#Notices and Tasks](/images/RARE Obsidian Vault#Notices and Tasks)
 
 # What to take away from this:
 - The Homepage displays some uses of the Dataview plug-in.
 - So, now that you get a sense of what the vault has by looking at the Homepage, let's go into a Daily Note.
 
 # Up Next:
-- [Daily Notes](./Daily%20Notes.md)
+- [Daily Notes]({{< ref "Daily Notes" >}})

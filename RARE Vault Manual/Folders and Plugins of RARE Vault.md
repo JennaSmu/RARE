@@ -18,7 +18,7 @@ dg-publish: true
 
 # Ribbon:
 
-![Ribbon Items.png](../Admin/Attachments/Ribbon%20Items.png)
+![Ribbon Items.png](/images/Ribbon Items.png)
 
 # Plug-ins:
 
@@ -41,4 +41,4 @@ dg-publish: true
 | Table to CSV Exporter | Exports Dataview tables to CSV. I am using this for the OSU data.                                                                                                                  |
 
 # Up Next:
-- Go to [Explaining the Dashboard](./Explaining%20the%20Dashboard.md) to see the breakdown of how a page work.
+- Go to [Explaining the Dashboard]({{< ref "Explaining the Dashboard" >}}) to see the breakdown of how a page work.

@@ -4,41 +4,41 @@ dg-publish: true
 
 # 💊Meds:
 - I have links for the following types of Meds:
-	- [Metacam](../Admin/Codes/Medication/Metacam.md)
-	- [Clavamox](../Admin/Codes/Medication/Clavamox.md)
-	- [Capstar](../Admin/Codes/Medication/Capstar.md)
-	- [💉Fluids](../Admin/Codes/Medication/Fluids.md)
-	- [TAB](../Admin/Codes/Medication/Triple%20Antibiotic.md)
-	- [Dex](../Admin/Codes/Medication/Dexamethasone.md)
-	- [Sprayed with Scalex](../Admin/Codes/Medication/Sprayed%20with%20Scalex.md)
+	- [Metacam]({{< ref "Metacam" >}})
+	- [Clavamox]({{< ref "Clavamox" >}})
+	- [Capstar]({{< ref "Capstar" >}})
+	- [💉Fluids]({{< ref "Fluids" >}})
+	- [TAB]({{< ref "Triple Antibiotic" >}})
+	- [Dex]({{< ref "Dexamethasone" >}})
+	- [Sprayed with Scalex]({{< ref "Sprayed with Scalex" >}})
 	- For other medications, you can just type them in normally. I just made links of these ones because I was so tried of writing them out all the time.
 - Other codes I have that I usually put in the Meds section are:
-	- [PO](../Admin/Codes/Per%20os.md)
-	- [Intramuscular](../Admin/Codes/Intramuscular.md)
-	- [ing](../Admin/Codes/inguinals.md)
+	- [PO]({{< ref "Per os" >}})
+	- [Intramuscular]({{< ref "Intramuscular" >}})
+	- [ing]({{< ref "inguinals" >}})
 
 # 🩺Caregiving:
 - Here I usually put information that doesn't fit into either Meds or Cleaning.
 - Codes:
-	- [Applied tail sheath](../Admin/Codes/Applied%20tail%20sheath.md)
-	- [Reapplied tail sheath](../Admin/Codes/Reapplied%20tail%20sheath.md)
-	- [Debride](../Admin/Codes/Debride.md)
-	- [Set up on rolly bed with perch option](../Admin/Codes/Set%20up%20on%20rolly%20bed%20with%20perch%20option.md)
+	- [Applied tail sheath]({{< ref "Applied tail sheath" >}})
+	- [Reapplied tail sheath]({{< ref "Reapplied tail sheath" >}})
+	- [Debride]({{< ref "Debride" >}})
+	- [Set up on rolly bed with perch option]({{< ref "Set up on rolly bed with perch option" >}})
 
 # 🫧 Cleaning:
 - Codes:
-	- [🧼🏠 Moved to clean cage](../Admin/Codes/Moved%20to%20clean%20cage.md)
-	- [🧼➗ Cleaned with divider](../Admin/Codes/Cleaned%20with%20divider.md)
-	- [🧽 Scrubbed cage](../Admin/Codes/Scrubbed%20cage.md)
-	- [🧹 Raked cage](../Admin/Codes/Raked%20cage.md)
-	- [🪶 Picked up feathers](../Admin/Codes/Picked%20up%20feathers.md)
-	- [💧Fresh water](../Admin/Codes/Fresh%20water.md)
+	- [🧼🏠 Moved to clean cage]({{< ref "Moved to clean cage" >}})
+	- [🧼➗ Cleaned with divider]({{< ref "Cleaned with divider" >}})
+	- [🧽 Scrubbed cage]({{< ref "Scrubbed cage" >}})
+	- [🧹 Raked cage]({{< ref "Raked cage" >}})
+	- [🪶 Picked up feathers]({{< ref "Picked up feathers" >}})
+	- [💧Fresh water]({{< ref "Fresh water" >}})
 
 # 🔭 Observations:
 - Here, I add in anything that a person observes about the bird.
 - Codes:
-	- [🪟 WT](../Admin/Codes/Window%20time.md)
+	- [🪟 WT]({{< ref "Window time" >}})
 		- Basically just used for Killy.
-	- [QAR](../Admin/Codes/Quiet-Alert-Responsive-(QAR).md)
-	- [BAR](../Admin/Codes/Bright-Alert-Responsive-(BAR).md)
+	- [QAR]({{< ref "Quiet-Alert-Responsive-(QAR)" >}})
+	- [BAR]({{< ref "Bright-Alert-Responsive-(BAR)" >}})
 
