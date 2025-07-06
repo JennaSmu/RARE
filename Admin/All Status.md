@@ -1,0 +1,11 @@
+---
+Status:
+  - With Sonja
+  - Clinic
+  - Barn
+  - Dead on Arrival (DOA)
+  - Died
+  - Euthanized
+  - Released
+  - Transferred
+---
