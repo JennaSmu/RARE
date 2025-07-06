@@ -1,1 +1,0 @@
-Research is showing that most times birds still do need treatment for head trauma after major window strikes to avoid permanent brain and eye damage even if they perk up and fly off, so it’s best to catch them right away and call a rehabber.
