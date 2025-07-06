@@ -9,3 +9,5 @@ include: ["Admin"]
 minimal_mistakes_skin: "air" 
 atom_feed:
   hide: true
+include:
+  - _includes/head-custom.html
