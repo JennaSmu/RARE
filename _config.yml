@@ -5,3 +5,5 @@ search: true
 plugins:
   - jekyll-include-cache
   - jemoji
+include: ["Admin"]
+minimal_mistakes_skin: "air" 
