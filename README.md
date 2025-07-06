@@ -1,4 +1,8 @@
-[RARE Obsidian Vault](Admin/RARE%20Obsidian%20Vault.md)
+[RARE Obsidian Vault]({{< ref "RARE Obsidian Vault" >}})
 
-[2021 Sex](Charts/2021%20Sex.md)
+[2021 Sex]({{< ref "2021 Sex" >}})
+
+
+
+**Sex in 2021**
 
