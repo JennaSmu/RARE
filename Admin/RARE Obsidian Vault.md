@@ -25,8 +25,8 @@ dg-publish: true
 | [2568 RTHA](../RARE%20Birds/2568%20RTHA.md)  | <ul><li>Unable to fly</li></ul>       | <ul><li>Bruised L Wing</li><li>FX L Tarsometatarsus</li></ul>                                                                         | June 18, 2025  | <ul><li>North Liberty</li><li>Johnson County</li></ul> |
 | [2573 AMKE](../RARE%20Birds/2573%20AMKE.md)  | \-                                    | <ul><li>Starvation</li><li>Dehydration</li></ul>                                                                                      | June 24, 2025  | <ul><li>Muscatine</li><li>Muscatine County</li></ul>   |
 | [2572 COHA](../RARE%20Birds/2572%20COHA.md)  | \-                                    | <ul><li>Swollen R Hock</li></ul>                                                                                                      | June 25, 2025  | <ul><li>Earlville</li><li>Delaware County</li></ul>    |
-| [2571 AMKE](../RARE%20Birds/2571%20AMKE.md)  | \-                                    | <ul><li>FX L Ulna</li><li>Swollen L Wrist</li></ul>                                                                                   | June 25, 2025  | <ul><li>Muscatine</li><li>Muscatine County</li></ul>   |
 | [2574 BDOW](../RARE%20Birds/2574%20BDOW.md)  | \-                                    | <ul><li>Head trauma</li><li>No PLR L+R Eye</li><li>Swollen L+R Ear</li><li>Missing - Tail Feathers</li><li>Road Rash R Foot</li></ul> | June 25, 2025  | <ul><li>Cedar Rapids</li><li>Linn County</li></ul>     |
+| [2571 AMKE](../RARE%20Birds/2571%20AMKE.md)  | \-                                    | <ul><li>FX L Ulna</li><li>Swollen L Wrist</li></ul>                                                                                   | June 25, 2025  | <ul><li>Muscatine</li><li>Muscatine County</li></ul>   |
 | [2575 AMKE](../RARE%20Birds/2575%20AMKE.md)  | \-                                    | <ul><li>FX L Ulna</li><li>Swollen L Wrist</li></ul>                                                                                   | June 27, 2025  | <ul><li>Muscatine</li><li>Muscatine County</li></ul>   |
 | [2578 AMKE](../RARE%20Birds/2578%20AMKE.md)  | \-                                    | <ul><li>Missing - Tail Feathers</li><li>Missing - Wing Feathers</li></ul>                                                             | July 04, 2025  | <ul><li>Cedar Rapids</li><li>Linn County</li></ul>     |
 
@@ -44,6 +44,10 @@ dg-publish: true
 # Notices and Tasks:
 
 ## ⚠️ Attention Notices this Week:
+### [2025-07-05](2025-07-05)
+
+- [#⚠️-attention](#⚠️-attention) Oxygen is almost in the red but not quite.
+
 ### [2025-07-04](2025-07-04)
 
 - [#⚠️-attention](#⚠️-attention) There are 3 boxes of supplies at the clinic, this was a large donation from PAWs and More. MANY THANKS!!! One box is ours the other 2 are being donated to Blackhawk and Gayla Myers.  Still working on coordinating that pickup.  The 4th box was delivered to Dr Jana.
@@ -73,6 +77,25 @@ dg-publish: true
 ---
 
 ## 🦅🩺 Bird Care Notices this Week:
+### [2025-07-05](2025-07-05)
+
+#### [2568 RTHA](2568 RTHA):
+
+- [#🦅🩺-bird-care/short-term](#🦅🩺-bird-care/short-term) Give low sturdy perch because he jumps up and around and off of it and knocks it over.
+
+#### [2572 COHA](2572 COHA):
+
+- [#🦅🩺-bird-care/short-term](#🦅🩺-bird-care/short-term) His rear facing toes were seeming to look funny, got his talons all cleaned up and it did have good grip.  Keep an eye on that please
+
+#### [2578 AMKE](2578 AMKE):
+
+- [#🦅🩺-bird-care/short-term](#🦅🩺-bird-care/short-term) 0.35ml [Metacam](Metacam) (0.5mg) in mouth, gave [Metacam](Metacam) because he was closing his eyes, one at a time periodically.
+- [#🦅🩺-bird-care/short-term](#🦅🩺-bird-care/short-term) Didn’t feel [💉Fluids](Fluids) were needed as his [KS](Keel score) was 4 and he ate everything.
+
+#### [2580 RTHA](2580 RTHA):
+
+- [#🦅🩺-bird-care/short-term](#🦅🩺-bird-care/short-term) Reapply ointment to neck and vent if still crusty with scabs tomorrow.
+
 ### [2025-07-04](2025-07-04)
 
 #### [2572 COHA](2572 COHA):
